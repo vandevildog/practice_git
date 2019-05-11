@@ -3,3 +3,5 @@ console.log(day);
 
 
 var food = 'oreos';
+
+var drink = 'grapedrank';
